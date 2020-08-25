@@ -1275,7 +1275,7 @@ class MainWP_Plugins {
 						<i class="close icon mainwp-notice-dismiss" notice-id="plugins-auto-updates"></i>
 						<p><?php esc_html_e( 'The MainWP Auto Updates feature is a tool for your Dashboard to automatically update plugins that you trust to be updated without breaking your Child sites.', 'mainwp' ); ?></p>
 						<p><?php esc_html_e( 'Only mark plugins as trusted if you are absolutely sure they can be automatically updated by your MainWP Dashboard without causing issues on the Child sites!', 'mainwp' ); ?></p>
-						<p><strong><?php esc_html_e( 'Auto Updates a delayed approximately 24 hours from the update release. Ignored plugins can not be automatically updated.', 'mainwp' ); ?></strong></p>
+						<p><strong><?php esc_html_e( 'Auto Updates are delayed approximately 24 hours from the update release. Ignored plugins can not be automatically updated.', 'mainwp' ); ?></strong></p>
 					</div>
 					<div class="ui header" style="margin-top:1rem"><?php esc_html_e( 'Plugin Status to Search', 'mainwp' ); ?></div>
 					<div class="ui mini form">
